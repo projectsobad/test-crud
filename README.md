@@ -11,7 +11,7 @@ Poin Plus :
 
 contoh tampilan :
 
-| No | Name | Gender | username |
+| No | Name | Gender | Username |
 | --- | --- | --- | --- |
 | 1 | David John | Female | rogers63 |
 | 2 | Rogers Paul | Male | mike28 |
